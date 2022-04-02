@@ -13,7 +13,7 @@ python bomber.py
 cancel-bomber = ctrl+c
 
 
-#Termux
+# Termux
 apt update
 apt install git
 apt install python
@@ -25,7 +25,7 @@ python bomber.py
 
 cancel-bomber = ctrl+c
 
-#Terminal Host
+# Terminal Host
 اول هاست تهیه کنیدکه دسترسی ترمینال داشته باش و قابلیت نصب پایتون ، پایتون رو از هاست نصب کنید و وارد همون پوشه که داخلش قرار سورس پایتون نصب بشه برید فایل رو دانلود و در اونجا اپلود کنید به ترمینال برید و موقع راه اندازی پایتون یک کد به شما میده اون رو داخل ترمینال بزنید و بعدش وارد پوشه Public بشید با دستور 
 cd Public
 در اونجا سورس باید باش و کافیه دستور
