@@ -4,7 +4,6 @@
 
 * sudo apt update
 * sudo apt install git
-* sudo apt install python2
 * sudo apt install python3
 * git clone https://github.com/irankali/sms-bomber
 * ls
@@ -16,8 +15,6 @@
 # Termux
 * apt update
 * apt install git
-* apt install python
-* apt install python2
 * apt install python3
 * git clone https://github.com/irankali/sms-bomber
 * ls
